@@ -1,0 +1,6 @@
+name: myenv2.7
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - selenium
